@@ -1,4 +1,4 @@
-# my-search
+# my_search
 
 ## Project setup
 ```
