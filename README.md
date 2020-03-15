@@ -1,19 +1,30 @@
-# my_search
+# Front-End of browser enginee
 
-## Project setup
+## Project Brief
+
+**It's built with following tech stack**
+
+- Vue-Cli 3.x
+- Less
+- Vue Router
+
+## Preview
+
+### setup
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Then it will run at http://localhost:8080/ .
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![index](./src/assets/index.png)
+
+![result-page](./src/assets/result.png)
+
+![result-page2](./src/assets/result2.png)
